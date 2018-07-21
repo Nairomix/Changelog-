@@ -1,0 +1,10 @@
+{"version_code":xxxxxx,"content":"
+<p>WhatsApp Mixv 7.70 By Nairo Mix</p>
+ 
+<li>Nuevos Iconos Glass</li>
+<li>Exclusivo Animación</li>
+<li>Otros Cambios</li>
+<li>MIXWA Plus</li>
+ 
+","url":"https://mundoappmix.blogspot.com/?m=1"
+}
