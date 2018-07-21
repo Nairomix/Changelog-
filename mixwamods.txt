@@ -1,7 +1,7 @@
 {"version_code":xxxxxx,"content":"
 <p>WhatsApp Mixv 7.70 By Nairo Mix</p>
  
-<li>Nuevos Iconos Glass</li>
+<li>Nuevos Iconos Glass Mix</li>
 <li>Exclusivo Animación</li>
 <li>Otros Cambios</li>
 <li>MIXWA Plus</li>
