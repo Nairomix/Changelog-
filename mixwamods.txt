@@ -1,5 +1,5 @@
 {"version_code":xxxxxx,"content":"
-<p>WhatsApp Mix V8.10 By Nairo Mix</p>
+<p>MIXWhatsApp V8.05 By Nairo Mix</p>
  
 <li>AGG ESTILO DE ADJUNTAR</li>
 <li>AGG ESTILO DE INFO DE CONTACTO</li>
