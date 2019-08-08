@@ -1,4 +1,4 @@
-{"version_code":452646,"content":"
+{"version_code":452666,"content":"
 <p>MIXWhatsApp V8.15 Mod by MIXWAMods</p>
  
 <li>Anti-Ban fix</li>
