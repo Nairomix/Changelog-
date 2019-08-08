@@ -1,5 +1,5 @@
 {"version_code":452646,"content":"
-<p>MIXWhatsApp V8.05 Mod by NM-Mods</p>
+<p>MIXWhatsApp V8.15 Mod by MIXWAMods</p>
  
 <li>Anti-Ban fix</li>
 <li>Fixed Hidden Chat Count Showing on Main Screen</li>
@@ -18,6 +18,6 @@
 <li>Entrada ios por defecto</li>
 <li>Sitio web de temas</li>
  
-","url":"https://www.nairomix.com/2019/04/WAMix3d-by-NairoMix.html?m=1"
+","https://www.nairomix.com/2019/08/OfficialWaMix3d.html"
 }
 
