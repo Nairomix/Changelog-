@@ -1,4 +1,4 @@
-{"version_code":452666,"content":"
+{"version_code":XXXXXX,"content":"
 <p>تحديث رقمWAMIX V8.20</p>
 
 <li>تحسين ونقل خيار قطع الانترنت عن الواتساب الى واجهة المحادثات الرئيسية</li>
