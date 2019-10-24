@@ -1,17 +1,13 @@
 {"version_code":XXXXXX,"content":"
-<p>تحديث رقمWAMIX V8.20</p>
-
-<li>تحسين ونقل خيار قطع الانترنت عن الواتساب الى واجهة المحادثات الرئيسية</li>
-<li>إضافة خيار لإخفاء ايقونة قطع الإنترنت عن الواتساب (إعدادات بلس-شاشة المحادثات-خيار رقم 3.4.9)</li>
-<li>اصلاح عدم ظهور ايقونة معلومات الرسالة في الشريط العلوي داخل المحادثات</li>
-<li>اصلاح عدم ظهور ايقونة الرد في الشريط العلوي داخل المحادثات</li>
-<li>اصلاح عدم ظهور ايقونة الارفاق في الشريط العلوي داخل المحادثات</li>
-<li>اصلاح واجهة المستخدم القديمة(الخيار 3.4.1)</li>
-<li>اصلاح انهيار التطبيق في بعض الاجهزة</li>
-<li>اصلاحات اخرى</li>
+<p>WAMIX Official V8.20</p>
 
 <p>Update WAMIX V8.20</p>
 
+<p>Added 10 new bubbles and 5 tickStyle</li>
+<p>design when opening quick contact</li>
+<p>design in settings and preferences</li>
+<p>background image option on home screen</li>
+<p>status in the header of the main screen</li>
 <li>Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
 <li>Added Option to Hide DND Mode Icon (mod 3.4.9)</li>
 <li>Fixed message details icon not showing on Chat ActionBar</li>
