@@ -1,7 +1,7 @@
-{"version_code":452666,"content":"
-<p>WAMIX Official V8.20</p>
+{"version_code":453019,"content":"
+<p>WAMIX Official V8.30</p>
 
-<p>Update MIXWhatsApp V8.20</p>
+<p>Update MIXWhatsApp V8.30</p>
 
 <p>Added 10 new bubbles and 5 tickStyle</li>
 <p>design when opening quick contact</li>
